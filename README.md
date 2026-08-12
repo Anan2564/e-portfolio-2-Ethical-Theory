@@ -6,7 +6,7 @@ Ethics theories and their application to actual ICT challenges via critical thin
 
 Artefact 1 — OAIC Report into the Qantas Data Breach
 
-Type: Government report / website Link: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/report-into-preliminary-inquiries-of-qantas Date: July 2026
+Type: Government report / website Link: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/report-into-preliminary-inquiries-of-qantas 
 
 Summary:
 
@@ -19,7 +19,7 @@ The reason for my choice of this report was my shock on learning that a major da
 
 Artefact 2 — ABC News report on the Qantas cyber attack
 
-Type: Video (news) Link: https://www.youtube.com/watch?v=pCOraWqBPOY Date: 2 July 2025
+Type: Video (news) Link: https://www.youtube.com/watch?v=pCOraWqBPOY 
 
 Summary:
 
