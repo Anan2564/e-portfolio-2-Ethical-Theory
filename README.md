@@ -30,7 +30,7 @@ This video was chosen by me as it depicts the way in which a cyber attack might 
 
 Artefact 3 — Bozzini, 'The regimes of ethical hacking'
 
-Type: Peer-reviewed journal article (open access) Link: https://doi.org/10.1080/1369118X.2025.2498683 Date: 6 May 2025
+Type: Peer-reviewed journal article (open access) Link: https://doi.org/10.1080/1369118X.2025.2498683 
 
 Summary:
 
