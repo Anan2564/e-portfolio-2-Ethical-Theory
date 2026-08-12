@@ -25,7 +25,7 @@ Summary:
 
 The news story by ABC News on the Qantas cyber attack in 2025 highlights the possibility that data of close to six million people might be exposed in such an event. The news story sheds light on the incident and the circumstances under which it took place via a breach in the third party contact center, while placing it in the context of data breaches in Australia, such as Optus and Medibank.
 
-This video was chosen by me as it depicts the way in which a cyber attack might affect an average individual and not just computer systems of a company. The manipulation of the call center representative who became a tool to get access to the customer data. This relates to Kantianism since people are supposed to be regarded as ends in themselves and not used just to satisfy somebody else's desire. News media coverage plays its role since it helps reveal the ethical aspect of cyber attacks.
+This video was chosen by me as it depicts the way in which a cyber attack might affect an average individual and not just computer systems of a company.  News media coverage plays its role since it helps reveal the ethical aspect of cyber attacks.
 
 
 Artefact 3 — Bozzini, 'The regimes of ethical hacking'
@@ -36,7 +36,7 @@ Summary:
 
 Bozzini looks into the development of ethical hacking and vulnerability disclosure from the 1990s until today. Three main regimes are identified: full disclosure, responsible or coordinated disclosure, and bug bounty programs. Bozzini demonstrates that ethical hacking has become increasingly standardized, normalized, and marketized (Bozzini 2025, p. 2).
 
-The reason for choosing this article is that before reading it, I used to view ethical hacking only as a cyber security profession which focuses on identifying weaknesses in systems. However, I came to know that ethical hacking has evolved through time and that different ways of ethical hacking have different ethical values.  In addition, the Week 4 anti-worm case has shown me that even though an action may be done with good intention, it can still be considered unethical based on the outcomes of the action (CQUniversity 2026).
+The reason for choosing this article is that before reading it, I used to view ethical hacking only as a cyber security profession. However, I came to know that ethical hacking has evolved through time and that different ways of ethical hacking have different ethical values.  In addition, the Week 4 anti-worm case has shown me that even though an action may be done with good intention, it can still be considered unethical based on the outcomes of the action (CQUniversity 2026).
 
 
 Artefact 4 
@@ -47,9 +47,11 @@ Workshop evidence:
 
 Summary:
 
-Morality, Ethics, and Ethical Theories were the topics covered in Week 4 workshop on how decisions can be made from the moral point of view. In the Week 4 workshop, I discussed the dilemma of releasing an application that is full of bugs either on schedule or later for further tests. There was also an analysis of the GenAI situation where we used Kantianism to analyze whether taking credits for AI generated work was a moral decision (CQUniversity 2026).
+Morality, Ethics, and Ethical Theories were the topics covered in Week 4 workshop on how decisions can be made from the moral point of view. In the Week 4 workshop, I discussed the dilemma of releasing an application that is full of bugs. There was also an analysis of the GenAI situation where we used Kantianism to analyze whether taking credits for AI generated work was a moral decision (CQUniversity 2026).
 
 The important point I gained is that ethical choices can be judged based on different perspectives and not just personal judgments. Prior to attending the workshop, my view on an ethical choice was whether an act led to a positive outcome or not.where decisions taken about software and technology can impact people’s safety, privacy, and opportunity. 
+
+
 Use of AI in planning:
 
 AI was used in the planning process to assist in researching possible artefacts and Harvard citation formatting. The selection of artefacts and reflection on them has been done independently by me based on the original sources.
