@@ -79,7 +79,7 @@ Workshop evidence:
 <img width="2048" height="1536" alt="WhatsApp Image 2026-08-08 at 8 15 21 PM (1)" src="https://github.com/user-attachments/assets/1e8f33f8-ecef-416f-972f-9d7143b5615a" />
 
 
-Summary of th:e artefact
+Summary of the artefact:
 
 Morality, Ethics, and Ethical Theories were the topics covered in Week 4 workshop on how decisions can be made from the moral point of view. In the Week 4 workshop, I discussed the dilemma of releasing an application that is full of bugs. There was also an analysis of the GenAI situation where we used Kantianism to analyze whether taking credits for AI generated work was a moral decision (CQUniversity 2026).
 
