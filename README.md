@@ -69,7 +69,7 @@ Week 4 Workshop: Ethics and Ethical Theories
 
 Workshop week: Week 4
 
-Day and date: Thrusday, 6 August 2026
+Day and date: Thursday, 6 August 2026
 
 Tutor: Umapathy Venugopal
 
